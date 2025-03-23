@@ -1,1 +1,67 @@
+# Data Science Tools and Ecosystem
 
+## Autor
+Mario Villegas
+
+## Introducción
+
+En este cuaderno, se resumen las herramientas y ecosistemas de ciencia de datos.
+
+### Objetivos:
+
+#### En este cuaderno, se resumen las herramientas y ecosistemas de ciencia de datos:
+
+- Listar lenguajes populares para Ciencia de Datos.
+
+- Identificar bibliotecas comunes utilizadas en Ciencia de Datos.
+
+- Explorar herramientas de desarrollo utilizadas en el ecosistema de Ciencia de Datos.
+
+- Evaluar expresiones aritméticas en Python.
+
+- Crear y utilizar celdas de Markdown en Jupyter Notebook.
+
+## Lenguajes de Ciencia de Datos
+
+Algunos de los lenguajes populares que utilizan los científicos de datos son:
+
+1. Python
+
+2. R
+
+3. SQL
+
+4. Julia
+
+## Bibliotecas de Ciencia de Datos
+
+Algunas de las bibliotecas comúnmente utilizadas por los científicos de datos incluyen:
+
+1. NumPy
+
+2. Pandas
+
+3. Scikit-learn
+
+4. TensorFlow
+
+## Herramientas de Ciencia de Datos
+
+|Herramientas de Ciencia de Datos|
+----------------------------------
+|Jupyter Notebook|
+|RStudio|
+|Apache Spark|
+
+### A continuación, se presentan algunos ejemplos de evaluación de expresiones aritméticas en Python.
+
+#Esta es una expresión aritmética simple para multiplicar y luego sumar enteros
+
+(3*4)+5
+
+#Esto convertirá 200 minutos a horas dividiendo por 60
+
+minutos = 200
+minutos_hora = 60
+horas = minutos/minutos_hora
+print (horas)
